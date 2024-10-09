@@ -3,7 +3,7 @@
 To study and implement Constructor Overloading
 # Theory
 
-In C++, we can have multiple constructors with the same name as long as they each have a different set of arguments.This is known as Constructor Overloading. It is similarto function overloading. 
+In C++, we can have multiple constructors with the same name as long as they each have a different set of arguments.This is known as Constructor Overloading. It is similar to function overloading. 
 Constructor overloading in object-oriented programming enables a class to have multiple constructors with the same name but different parameters. This means that you can create objects in various ways by passing different numbers or types of arguments. The program automatically selects the appropriate constructor based on the arguments provided, making it simple to create and initialize objects.
 CODES:
 
